@@ -1,0 +1,9 @@
+.tableStyle{
+    color: black;
+    border: 1px solid #ccc;
+}
+td, th {
+    border: 2px solid #dddddd;
+    text-align: left;
+    padding: 4px;
+  }

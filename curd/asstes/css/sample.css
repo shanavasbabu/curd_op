@@ -1,0 +1,63 @@
+.tableStyle{
+    color: black;
+    border: 1px solid #ccc;
+}
+td, th {
+    border: 2px solid #dddddd;
+    text-align: left;
+    padding: 4px;
+  }
+
+  .delete{
+    background-color: rgb(206, 31, 31);
+    color: white;
+    border: 1px solid #ccc;
+    padding: 10px 5px 10px 5px;
+    border-radius: 5px;
+    cursor: pointer;
+    box-shadow: 5px ;
+  }
+  .delete:hover {
+        background-color: #e7e7e7;
+        color: black;
+  }
+  .update{
+    background-color: #016bc1;
+    color: white;
+    border: 1px solid #ccc;
+    padding: 10px 5px 10px 5px;
+    border-radius: 5px;
+    cursor: pointer;
+    box-shadow: 5px ;
+  }
+  .update:hover{
+      background-color: black;
+  }
+  .add{
+    background-color: #b101c1;
+    color: white;
+    border: 1px solid #ccc;
+    padding: 10px 5px 10px 5px;
+    border-radius: 5px;
+    cursor: pointer;
+    box-shadow: 5px ;
+  }
+  .add:hover{
+      background-color: black;
+  }
+  .view{
+    background-color: #546304;
+    color: white;
+    border: 1px solid #ccc;
+    padding: 10px 5px 10px 5px;
+    border-radius: 5px;
+    cursor: pointer;
+    box-shadow: 5px ;
+  }
+  .view:hover{
+      background-color: black;
+  }
+  h2 {
+    text-align: center;
+    text-decoration: underline;
+  }
